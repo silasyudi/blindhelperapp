@@ -37,7 +37,7 @@ the decimal place must be delimited by a point. Example:
 }
 ```
 
-![QRCode de Exemplo](qr-code.png)
+![QRCode de Exemplo](exemplos/qr-code-formato-valido.png)
 
 ## Dates
 
