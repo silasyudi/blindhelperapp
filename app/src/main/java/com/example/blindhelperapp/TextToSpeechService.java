@@ -15,6 +15,7 @@ public class TextToSpeechService {
             public void onInit(int status) {
                 if (status == TextToSpeech.SUCCESS) {
                     textToSpeech.setLanguage(Locale.forLanguageTag("pt_BR"));
+                    speak(ScanService.PROMPT);
                 }
             }
         });
